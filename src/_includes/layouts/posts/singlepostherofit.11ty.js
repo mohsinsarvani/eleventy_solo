@@ -22,7 +22,7 @@ exports.render = function (data) {
     }
   })
   stringtoRet += `/images/${urlBase}-${width}.webp ${width}w" sizes="100vw" />
-  <img class="imgCover hero" src="/images/${urlBase}-20.${ext}" srcset="`
+  <img class="imgCover" src="/images/${urlBase}-20.${ext}" srcset="`
   respSizes.forEach(size => {
     if (size <= width) {
       stringtoRet += `/images/${urlBase}-${size}.${ext} ${size}w, `
