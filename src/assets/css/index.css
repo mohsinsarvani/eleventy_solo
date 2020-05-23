@@ -386,6 +386,7 @@ hr {
 }
 
 /* from vanilla-lazyload */
+/*
 .lazy {
   opacity: 0;
 }
@@ -403,6 +404,7 @@ hr {
 .lazy:not([src]) {
   visibility: hidden;
 }
+*/
 /* end of CSS from vanilla-lazyload */
 
 @tailwind components;
