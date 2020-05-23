@@ -1,50 +1,16 @@
-const sizeOf = require('image-size')
-const respSizes = [300, 450, 600, 750, 900, 1050, 1200, 1350, 1500]
-const srcDir = 'src/images'
-
 exports.data = {
   layout: 'layouts/_default/base.11ty.js'
 }
 
 exports.render = function (data) {
-  var fImg = data.featured_image
-  var alt = data.featured_image_alt
-  var ext = fImg.substring((fImg.lastIndexOf('.') + 1))
-  var urlBase = fImg.slice(0, -4)
-  var dimensions = sizeOf(`${srcDir}/${fImg}`) // the REAL, original file
-  var width = dimensions.width
-  var stringtoRet = ``
-  stringtoRet = `<picture>
-  <source type="image/webp" srcset="`
-  respSizes.forEach(size => {
-    if (size <= width) {
-      stringtoRet += `/images/${urlBase}-${size}.webp ${size}w, `
-    }
-  })
-  stringtoRet += `/images/${urlBase}-${width}.webp ${width}w" sizes="100vw" />
-  <img class="object-cover object-center h-full w-full containedImage" src="/images/${urlBase}-20.${ext}" srcset="`
-  respSizes.forEach(size => {
-    if (size <= width) {
-      stringtoRet += `/images/${urlBase}-${size}.${ext} ${size}w, `
-    }
-  })
-  stringtoRet += `/images/${urlBase}-${width}.${ext}" alt="${alt}" sizes="100vw" />
-  </picture>
-  <noscript>
-    <img class="imgCover hero" loading="lazy" src="/images/${urlBase}-${width}.${ext}" alt="${alt}" />
-  </noscript>`
   return `
 
   <main>
 
     <div class="w-full height-hero pt-12">
-      ${stringtoRet}
+      <img src="/images/typewriter-monochrome_2242164_1280x720.jpg" alt="Monochrome photo of hands typing on a very old typewriter" class="object-cover object-center h-full w-full containedImage" />
     </div>
-    ${
-      (data.featured_image_caption)
-      ? `<p class="text-center text-xs tracking-normal mt-1">${data.featured_image_caption}</p>`
-      : ``
-    }
+    <p class="text-center text-xs tracking-normal mt-1">Image: Pixabay</p>
 
     <div class="container px-8 lg:grid lg:grid-cols-5 lg:gap-16 lg:w-5/6 mr-auto ml-auto">
       <div class="col-span-3 home-colOne">
