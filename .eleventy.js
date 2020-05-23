@@ -4,6 +4,8 @@ const ofotigrid = require('./src/_includes/ofotigrid.js')
 const sanitizeHTML = require('sanitize-html')
 const filters = require('./src/assets/utils/filters.js')
 const ErrorOverlay = require('eleventy-plugin-error-overlay')
+const pluginLocalRespimg = require('eleventy-plugin-local-respimg')
+const lazyImagesPlugin = require('eleventy-plugin-lazyimages')
 
 module.exports = function (eleventyConfig) {
 
@@ -17,7 +19,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('robots.txt')
   eleventyConfig.addPassthroughCopy('favicon.ico')
   eleventyConfig.addPassthroughCopy('./src/assets/js')
-  eleventyConfig.addPassthroughCopy('./src/images/icons')
+  // eleventyConfig.addPassthroughCopy('./src/images/icons')
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy")
@@ -91,8 +93,51 @@ module.exports = function (eleventyConfig) {
   })
 
   eleventyConfig.addPlugin(ErrorOverlay)
+
+  eleventyConfig.addPlugin(pluginLocalRespimg, {
+    folders: {
+      source: 'src',
+      output: '_site',
+    },
+    images: {
+      resize: {
+        min: 250,
+        max: 1500,
+        step: 150,
+      },
+      gifToVideo: false,
+      sizes: '100vw',
+      lazy: true,
+      additional: [
+        // Additional images to optimize (won't be re-sized)
+        'images/icons/**/*',
+      ],
+      watch: {
+        src: 'images/**/*',
+      },
+      pngquant: {
+        speed: 10,
+        quality: [0.3, 0.5],
+      },
+      mozjpeg: {
+        quality: 60,
+      },
+      svgo: {},
+      gifresize: {},
+      webp: {
+        quality: 50,
+      },
+      gifwebp: {},
+    },
+  })
+
+  eleventyConfig.addPlugin(lazyImagesPlugin, {
+    appendInitScript: false,
+    scriptSrc: './src/assets/js/lazyload.min.js',
+    className: 'lazy',
+  })
  
-  eleventyConfig.addShortcode("lazypicture", require("./src/assets/utils/lazy-picture.js"))
+  // eleventyConfig.addShortcode("lazypicture", require("./src/assets/utils/lazy-picture.js"))
 
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if( outputPath.endsWith(".html") ) {
