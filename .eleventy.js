@@ -5,7 +5,6 @@ const sanitizeHTML = require('sanitize-html')
 const filters = require('./src/assets/utils/filters.js')
 const ErrorOverlay = require('eleventy-plugin-error-overlay')
 const pluginLocalRespimg = require('eleventy-plugin-local-respimg')
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages')
 
 module.exports = function (eleventyConfig) {
 
@@ -129,12 +128,6 @@ module.exports = function (eleventyConfig) {
       },
       gifwebp: {},
     },
-  })
-
-  eleventyConfig.addPlugin(lazyImagesPlugin, {
-    appendInitScript: false,
-    scriptSrc: './src/assets/js/lazyload.min.js',
-    className: 'lazy',
   })
  
   // eleventyConfig.addShortcode("lazypicture", require("./src/assets/utils/lazy-picture.js"))
