@@ -1,5 +1,5 @@
 _site
-_cache
+# _cache #allowing this to be VC'd for testing **only**
 dist
 build
 node_modules

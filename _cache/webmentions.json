@@ -1,0 +1,2590 @@
+{
+  "lastFetched": "2020-05-23T14:23:30.459Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ITbod",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/ITslavebod"
+      },
+      "url": "https://twitter.com/ITslavebod/status/1261959868338057219",
+      "published": "2020-05-17T10:00:53+00:00",
+      "wm-received": "2020-05-17T13:56:13Z",
+      "wm-id": 797332,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1261722446736035840/1261959868338057219",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "content": {
+        "text": "Having just reviewed two iOS email apps, I picked @PresideApp as the better. Today, got a one-year subscription. It’s \"freemium”: you pay ma"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ITbod",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/ITslavebod"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1261722446736035840#favorited-by-110457563",
+      "published": null,
+      "wm-received": "2020-05-17T13:56:12Z",
+      "wm-id": 797331,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1261722446736035840/110457563",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "like-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jared w",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/361a98993392b822e43bf36e5b0fa596aa81f490f2358c61adc5e279be285b3b.jpg",
+        "url": "https://twitter.com/jjw215"
+      },
+      "url": "https://twitter.com/jjw215/status/1261887073566375941",
+      "published": "2020-05-17T05:11:37+00:00",
+      "wm-received": "2020-05-17T05:12:32Z",
+      "wm-id": 797270,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1261722446736035840/1261887073566375941",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "content": {
+        "text": "Having just reviewed two iOS email apps, I picked @PresideApp as the better. Today, got a one-year subscription. It’s \"freemium”: you pay ma"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jared w",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/361a98993392b822e43bf36e5b0fa596aa81f490f2358c61adc5e279be285b3b.jpg",
+        "url": "https://twitter.com/jjw215"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1261722446736035840#favorited-by-114961372",
+      "published": null,
+      "wm-received": "2020-05-17T05:12:31Z",
+      "wm-id": 797269,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1261722446736035840/114961372",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "like-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Preside",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/85df6bb8115c197f1cce5b437a3820584c57ee98c711783dae1c5d262509f505.jpg",
+        "url": "https://twitter.com/PresideApp"
+      },
+      "url": "https://twitter.com/PresideApp/status/1261842172820598790",
+      "published": "2020-05-17T02:13:12+00:00",
+      "wm-received": "2020-05-17T02:44:25Z",
+      "wm-id": 797244,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1261722446736035840/1261842172820598790",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "content": {
+        "text": "Having just reviewed two iOS email apps, I picked @PresideApp as the better. Today, got a one-year subscription. It’s \"freemium”: you pay ma"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Preside",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/85df6bb8115c197f1cce5b437a3820584c57ee98c711783dae1c5d262509f505.jpg",
+        "url": "https://twitter.com/PresideApp"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1261722446736035840#favorited-by-3881254094",
+      "published": null,
+      "wm-received": "2020-05-17T01:54:13Z",
+      "wm-id": 797237,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1261722446736035840/3881254094",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "like-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/028e8dc0b80dc7980b3ec2bfa612ba363cc630805d1145c4157ca3170e4133f3.png",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1261722446736035840#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-05-16T18:55:45Z",
+      "wm-id": 797134,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1261722446736035840/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "like-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "andrewcanion",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/ee30c20aac4cc016ecf5355185bf9764ce6f446109ceb81d7a27fbb3c1cf1ae3.jpg",
+        "url": "https://twitter.com/andrewcanion"
+      },
+      "url": "https://twitter.com/andrewcanion/status/1261291376626434053",
+      "published": "2020-05-15T13:44:32+00:00",
+      "wm-received": "2020-05-15T14:22:40Z",
+      "wm-id": 796662,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1261291376626434053",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "content": {
+        "html": "If you want power email management on your mobile device, this is the review to read.\n<a class=\"u-mention\" href=\"https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/\"></a>\n<a class=\"u-mention\" href=\"https://buff.ly/2Apdj8Z\"></a>\n<a href=\"https://twitter.com/brycewraytx/status/1261067012031369216\">twitter.com/brycewraytx/st…</a>",
+        "text": "If you want power email management on your mobile device, this is the review to read.\n\n\ntwitter.com/brycewraytx/st…"
+      },
+      "mention-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jan Erik Moström",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/ce9d523b77b641572605ad50912c7b887378cca6c3fa8b3bf8dae530f3a8a5b9.jpg",
+        "url": "https://twitter.com/jemostrom"
+      },
+      "url": "https://twitter.com/jemostrom/status/1261164250585870336",
+      "published": "2020-05-15T05:19:23+00:00",
+      "wm-received": "2020-05-15T06:03:25Z",
+      "wm-id": 796555,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1261164250585870336",
+      "wm-target": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "content": {
+        "html": "For those of you who are looking at iOS email clients <a href=\"https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/\">brycewray.com/posts/2020/05/…</a>",
+        "text": "For those of you who are looking at iOS email clients brycewray.com/posts/2020/05/…"
+      },
+      "mention-of": "https://brycewray.com/posts/2020/05/battle-ios-email-heavyweights/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jim Fisk",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/2bf7fd0727273d84074442fe557bf51dcbc5ba6692ef06b2e62daec5eae0b9ee.jpg",
+        "url": "https://twitter.com/jimafisk"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-2215865364",
+      "published": null,
+      "wm-received": "2020-05-09T19:51:59Z",
+      "wm-id": 794691,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/2215865364",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eduardo Uribe",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/163bc653e7f182a5c9beac14d9ced3781aa197ddf9b3fef08a46270e83b29914.jpg",
+        "url": "https://twitter.com/Eduardo__Uribe"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-3165967183",
+      "published": null,
+      "wm-received": "2020-05-09T18:56:43Z",
+      "wm-id": 794685,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/3165967183",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/028e8dc0b80dc7980b3ec2bfa612ba363cc630805d1145c4157ca3170e4133f3.png",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-05-09T17:10:57Z",
+      "wm-id": 794671,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "André Jaenisch",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/AndreJaenisch"
+      },
+      "url": "https://twitter.com/AndreJaenisch/status/1259164413900308480",
+      "published": "2020-05-09T16:52:45+00:00",
+      "wm-received": "2020-05-09T17:10:57Z",
+      "wm-id": 794672,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1259136956258226177/1259164413900308480",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "content": {
+        "html": "NEW POST &gt;&gt; Going solo with Eleventy: Losing webpack, regaining Tailwind CSS \n\nbuff.ly/2LkgZel \n\n@eleven_ty @tailwindcss #CSS #Stati",
+        "text": "NEW POST >> Going solo with Eleventy: Losing webpack, regaining Tailwind CSS \n\nbuff.ly/2LkgZel \n\n@eleven_ty @tailwindcss #CSS #Stati"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "André Jaenisch",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/AndreJaenisch"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-1319912101",
+      "published": null,
+      "wm-received": "2020-05-09T17:10:55Z",
+      "wm-id": 794670,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/1319912101",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Meyerhofer",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/de1fce77ed55a93f3f9b89550ef20a870ddd2e81d5013812ce13a05540d0f560.jpg",
+        "url": "https://twitter.com/JRMeyerhofer"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-425853322",
+      "published": null,
+      "wm-received": "2020-05-09T17:10:54Z",
+      "wm-id": 794669,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/425853322",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1259136956258226177#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2020-05-09T16:19:51Z",
+      "wm-id": 794659,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1259136956258226177/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "like-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/eleven_ty/status/1259149242150588420",
+      "published": "2020-05-09T15:52:27+00:00",
+      "wm-received": "2020-05-09T16:19:50Z",
+      "wm-id": 794658,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1259136956258226177/1259149242150588420",
+      "wm-target": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "content": {
+        "html": "NEW POST &gt;&gt; Going solo with Eleventy: Losing webpack, regaining Tailwind CSS \n\nbuff.ly/2LkgZel \n\n@eleven_ty @tailwindcss #CSS #Stati",
+        "text": "NEW POST >> Going solo with Eleventy: Losing webpack, regaining Tailwind CSS \n\nbuff.ly/2LkgZel \n\n@eleven_ty @tailwindcss #CSS #Stati"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/05/going-solo-eleventy/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David Rhoden",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8bf05d3963252f33fe4ccae5ce406f9914540a62dd6e60f291264b15a9a1fcd6.png",
+        "url": "https://twitter.com/davidrhoden"
+      },
+      "url": "https://twitter.com/davidrhoden/status/1257770502594211842",
+      "published": "2020-05-05T20:33:50+00:00",
+      "wm-received": "2020-05-05T23:51:22Z",
+      "wm-id": 792922,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1257770502594211842",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "content": {
+        "html": "Thanks for this post, <a href=\"https://twitter.com/BryceWrayTX\">@BryceWrayTX</a>, it was really helpful. I hope it makes it into the <a href=\"https://twitter.com/search?q=%23eleven_ty\">#eleven_ty</a> docs.\n\n<a href=\"https://brycewray.com/posts/2019/12/previous-next-eleventy/\">brycewray.com/posts/2019/12/…</a>",
+        "text": "Thanks for this post, @BryceWrayTX, it was really helpful. I hope it makes it into the #eleven_ty docs.\n\nbrycewray.com/posts/2019/12/…"
+      },
+      "mention-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Javascript Digest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8926516280df06f09e9ac45cd9df37e0e2ed500388fbfd669e40b7ec4fb680df.jpeg",
+        "url": "https://twitter.com/javascriptd"
+      },
+      "url": "https://twitter.com/javascriptd/status/1255826767501070336",
+      "published": "2020-04-30T11:50:08+00:00",
+      "wm-received": "2020-04-30T12:38:09Z",
+      "wm-id": 789404,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1255299095230636040/1255826767501070336",
+      "wm-target": "https://brycewray.com/posts/2020/04/webmentions-three-ssgs-1/",
+      "content": {
+        "html": "NEW five-part series &gt;&gt; Webmentions in three SSGs \n(All five parts available NOW) \nbuff.ly/3eZPhkJ \n#IndieWeb @eleven_ty #webmention",
+        "text": "NEW five-part series >> Webmentions in three SSGs \n(All five parts available NOW) \nbuff.ly/3eZPhkJ \n#IndieWeb @eleven_ty #webmention"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/webmentions-three-ssgs-1/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lorenzo Guidaldi",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6e75305dff7e7291db18780140b6856ff8fb67c1be0443c4029f35387afc63fa.png",
+        "url": "https://twitter.com/sullyD64"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1255299095230636040#favorited-by-285711596",
+      "published": null,
+      "wm-received": "2020-04-29T08:55:18Z",
+      "wm-id": 788515,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1255299095230636040/285711596",
+      "wm-target": "https://brycewray.com/posts/2020/04/webmentions-three-ssgs-1/",
+      "like-of": "https://brycewray.com/posts/2020/04/webmentions-three-ssgs-1/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Javascript Digest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8926516280df06f09e9ac45cd9df37e0e2ed500388fbfd669e40b7ec4fb680df.jpeg",
+        "url": "https://twitter.com/javascriptd"
+      },
+      "url": "https://twitter.com/javascriptd/status/1254626923231109121",
+      "published": "2020-04-27T04:22:22+00:00",
+      "wm-received": "2020-04-27T04:28:21Z",
+      "wm-id": 787450,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1254139255166767106/1254626923231109121",
+      "wm-target": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "content": {
+        "text": "Now have #webmentions up and running not only on my real @eleven_ty/ @webpack site but also in the #Gatsby and #Hugo repos I mentioned in th"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jim Fisk",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/2bf7fd0727273d84074442fe557bf51dcbc5ba6692ef06b2e62daec5eae0b9ee.jpg",
+        "url": "https://twitter.com/jimafisk"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1254139255166767106#favorited-by-2215865364",
+      "published": null,
+      "wm-received": "2020-04-26T03:13:29Z",
+      "wm-id": 787255,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1254139255166767106/2215865364",
+      "wm-target": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "like-of": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Meyerhofer",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/de1fce77ed55a93f3f9b89550ef20a870ddd2e81d5013812ce13a05540d0f560.jpg",
+        "url": "https://twitter.com/JRMeyerhofer"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1254139255166767106#favorited-by-425853322",
+      "published": null,
+      "wm-received": "2020-04-25T22:06:49Z",
+      "wm-id": 787218,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1254139255166767106/425853322",
+      "wm-target": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "like-of": "https://brycewray.com/posts/2020/04/different-modes-different-code/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "React Developer",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a909846d022fd41f5711bdfac2c689a5247069155bfd2dbef6db22233027ddd1.jpg",
+        "url": "https://twitter.com/_reactdev"
+      },
+      "url": "https://twitter.com/_reactdev/status/1250845146935169025",
+      "published": "2020-04-16T17:54:57+00:00",
+      "wm-received": "2020-04-16T17:57:14Z",
+      "wm-id": 783469,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250845146935169025",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "André Jaenisch",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/AndreJaenisch"
+      },
+      "url": "https://twitter.com/AndreJaenisch/status/1250844983516684294",
+      "published": "2020-04-16T17:54:18+00:00",
+      "wm-received": "2020-04-16T17:57:14Z",
+      "wm-id": 783470,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250844983516684294",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sia Karamalegos",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1810608347142921d4037b31211f061772337bc84d240d1b63bce9f64a5823d9.jpg",
+        "url": "https://twitter.com/TheGreenGreek"
+      },
+      "url": "https://twitter.com/TheGreenGreek/status/1250812859841478656",
+      "published": "2020-04-16T15:46:39+00:00",
+      "wm-received": "2020-04-16T15:58:49Z",
+      "wm-id": 783335,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250812859841478656",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sia Karamalegos",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1810608347142921d4037b31211f061772337bc84d240d1b63bce9f64a5823d9.jpg",
+        "url": "https://twitter.com/TheGreenGreek"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-23724008",
+      "published": null,
+      "wm-received": "2020-04-16T15:58:48Z",
+      "wm-id": 783334,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/23724008",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Brian Rinaldi",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/efc0f01ad8139eeadfb194c9be54dec1b02269aafe8185d92d7bf91983ad396f.jpg",
+        "url": "https://twitter.com/remotesynth"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-6773532",
+      "published": null,
+      "wm-received": "2020-04-16T15:58:47Z",
+      "wm-id": 783333,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/6773532",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sia Karamalegos",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1810608347142921d4037b31211f061772337bc84d240d1b63bce9f64a5823d9.jpg",
+        "url": "https://twitter.com/TheGreenGreek"
+      },
+      "url": "https://twitter.com/TheGreenGreek/status/1250812996127019008",
+      "published": "2020-04-16T15:47:11+00:00",
+      "wm-received": "2020-04-16T15:57:50Z",
+      "wm-id": 783331,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1250569925053292544/1250812996127019008",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "I'm glad my posts were helpful!\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mxbck\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "I'm glad my posts were helpful!"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250813309902901248",
+      "published": "2020-04-16T15:48:26+00:00",
+      "wm-received": "2020-04-16T15:57:50Z",
+      "wm-id": 783332,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1250569925053292544/1250813309902901248",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": ".@TheGreenGreek extremely helpful! 🙏👏✅\n<a class=\"u-mention\" href=\"https://twitter.com/TheGreenGreek\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mxbck\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": ".@TheGreenGreek extremely helpful! 🙏👏✅"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mason conkright",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/2adf36d05c33b2b0775bc045ca0f098f47d54f5657ffa8ec276f6ca1de0dcbdf.jpg",
+        "url": "https://twitter.com/themason"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-16969568",
+      "published": null,
+      "wm-received": "2020-04-16T15:10:59Z",
+      "wm-id": 783315,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/16969568",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Etienne Lareau",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/287915d361df3df374d8226bf2bd07d263fcbc1f01b50674b4d02b052b547dbc.jpg",
+        "url": "https://twitter.com/LareauEtienne"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-4838529699",
+      "published": null,
+      "wm-received": "2020-04-16T13:18:15Z",
+      "wm-id": 783284,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/4838529699",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c21eff209ada91f6fe7e85dade06b7cd289b2c253324148110fe5c4ae2cb8021.jpg",
+        "url": "https://twitter.com/nhoizey"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-6308712",
+      "published": null,
+      "wm-received": "2020-04-16T09:58:21Z",
+      "wm-id": 783203,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/6308712",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lorenzo Guidaldi",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6e75305dff7e7291db18780140b6856ff8fb67c1be0443c4029f35387afc63fa.png",
+        "url": "https://twitter.com/sullyD64"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-285711596",
+      "published": null,
+      "wm-received": "2020-04-16T07:57:40Z",
+      "wm-id": 783167,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/285711596",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Clément Hardoüin",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c6a612c0e94802cc058012bef854bca8b9562d6ce908b7d93b962c0af2b9d937.jpg",
+        "url": "https://twitter.com/fastclemmy"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-1498691",
+      "published": null,
+      "wm-received": "2020-04-16T07:57:40Z",
+      "wm-id": 783168,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/1498691",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Max Böck",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/18a4e83da23e07a465feab2cd21362105938e9ac05ff774c757bec8f39bf6141.jpg",
+        "url": "https://twitter.com/mxbck"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-516438525",
+      "published": null,
+      "wm-received": "2020-04-16T06:57:20Z",
+      "wm-id": 783157,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/516438525",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Max Böck",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/18a4e83da23e07a465feab2cd21362105938e9ac05ff774c757bec8f39bf6141.jpg",
+        "url": "https://twitter.com/mxbck"
+      },
+      "url": "https://twitter.com/mxbck/status/1250672765721509888",
+      "published": "2020-04-16T06:29:58+00:00",
+      "wm-received": "2020-04-16T06:57:15Z",
+      "wm-id": 783156,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1250569925053292544/1250672765721509888",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "Nice, thanks for the writeup! 💯\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TheGreenGreek\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "Nice, thanks for the writeup! 💯"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "✨ Joël",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/20857ca5d7595ca1f585f441f6cfac5655f733bbf6b08fa915ef70818e1c24c3.jpg",
+        "url": "https://twitter.com/Jolg42"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-240607542",
+      "published": null,
+      "wm-received": "2020-04-16T06:57:14Z",
+      "wm-id": 783155,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/240607542",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens Grochtdreis",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/76c59a44803d2fe0e2760190e87623c4e62786dae9dc1637cc0ab25b98fde15b.png",
+        "url": "https://twitter.com/Flocke"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-7015572",
+      "published": null,
+      "wm-received": "2020-04-16T06:18:09Z",
+      "wm-id": 783151,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/7015572",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/biilmann/status/1250626780974575617",
+      "published": "2020-04-16T03:27:14+00:00",
+      "wm-received": "2020-04-16T05:51:01Z",
+      "wm-id": 783147,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250626780974575617",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AltBot 👽🤖👨🏻‍💻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b75b4eece8176bedf22d10c8a8419659b36e66f55fc231c4ad3a72b310ca2168.jpg",
+        "url": "https://twitter.com/AltBot4"
+      },
+      "url": "https://twitter.com/AltBot4/status/1250626878093889537",
+      "published": "2020-04-16T03:27:37+00:00",
+      "wm-received": "2020-04-16T05:51:00Z",
+      "wm-id": 783146,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250626878093889537",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-24203304",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:57Z",
+      "wm-id": 783144,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/24203304",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eduardo Uribe",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/163bc653e7f182a5c9beac14d9ced3781aa197ddf9b3fef08a46270e83b29914.jpg",
+        "url": "https://twitter.com/Eduardo__Uribe"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-3165967183",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:57Z",
+      "wm-id": 783145,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/3165967183",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ricardo Blanch PM",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f5b2714c2f963a9e935a45a4d1acc6520944949d16f1c7b8ca6859b1092693b8.jpg",
+        "url": "https://twitter.com/product_blinch"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-981996647906533378",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:54Z",
+      "wm-id": 783142,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/981996647906533378",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AltBot 👽 🤖 👨🏻‍💻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b75b4eece8176bedf22d10c8a8419659b36e66f55fc231c4ad3a72b310ca2168.jpg",
+        "url": "https://twitter.com/AltBot4"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-1236222056921878528",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:54Z",
+      "wm-id": 783143,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/1236222056921878528",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rhian van Esch",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0b7df7ef76bffd2b18841d4c9b5e53edf16a2f1e38b5d05833df12c686848a87.jpg",
+        "url": "https://twitter.com/rhianvanesch"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-3292340874",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:42Z",
+      "wm-id": 783140,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/3292340874",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul Applegate",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0987ec9de511d7885e80cd0e1b34669556dfbe7deaa05e666dd007ebb2edbd77.jpg",
+        "url": "https://twitter.com/papplegate"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-10192922",
+      "published": null,
+      "wm-received": "2020-04-16T05:50:42Z",
+      "wm-id": 783141,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/10192922",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reuben L. Lillie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aad6b4e33f7f9e7817a4add478548e00571bdd156834f2188ad14477d5c77ad.jpg",
+        "url": "https://twitter.com/reubenlillie"
+      },
+      "url": "https://twitter.com/reubenlillie/status/1250571060317237250",
+      "published": "2020-04-15T23:45:49+00:00",
+      "wm-received": "2020-04-16T00:51:42Z",
+      "wm-id": 783096,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1250571060317237250",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "Thanks for your kind words <a href=\"https://twitter.com/BryceWrayTX\">@BryceWrayTX</a>. Glad I was able to help you get up and running with vanilla <a href=\"https://twitter.com/search?q=%23JavaScript\">#JavaScript</a> in <a href=\"https://twitter.com/eleven_ty\">@eleven_ty</a>. Congratulations.\n<a class=\"u-mention\" href=\"https://brycewray.com/posts/2020/04/full-11ty-js-monty/\"></a>\n<a class=\"u-mention\" href=\"https://buff.ly/2XDVNrh\"></a>",
+        "text": "Thanks for your kind words @BryceWrayTX. Glad I was able to help you get up and running with vanilla #JavaScript in @eleven_ty. Congratulations."
+      },
+      "mention-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/eleven_ty/status/1250576668625981442",
+      "published": "2020-04-16T00:08:07+00:00",
+      "wm-received": "2020-04-16T00:51:41Z",
+      "wm-id": 783095,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1250569925053292544/1250576668625981442",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "NEW POST &gt;&gt; \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck",
+        "text": "NEW POST >> \nThe full .11ty.js monty: Going all-JavaScript with my Eleventy site \n\nbuff.ly/2XDVNrh\n\n@eleven_ty @reubenlillie @mxbck"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2020-04-16T00:51:36Z",
+      "wm-id": 783093,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reuben L. Lillie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aad6b4e33f7f9e7817a4add478548e00571bdd156834f2188ad14477d5c77ad.jpg",
+        "url": "https://twitter.com/reubenlillie"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-1417020956",
+      "published": null,
+      "wm-received": "2020-04-16T00:51:36Z",
+      "wm-id": 783094,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/1417020956",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dr. Richie C.",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8831bcfd36423a6f010236c2d7cad43163363a0b274b710b1b5d5c12abdda113.png",
+        "url": "https://twitter.com/corderophi678"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-700717559008526336",
+      "published": null,
+      "wm-received": "2020-04-16T00:51:21Z",
+      "wm-id": 783091,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/700717559008526336",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/028e8dc0b80dc7980b3ec2bfa612ba363cc630805d1145c4157ca3170e4133f3.png",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250569925053292544#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-04-16T00:51:21Z",
+      "wm-id": 783092,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1250569925053292544/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "like-of": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/028e8dc0b80dc7980b3ec2bfa612ba363cc630805d1145c4157ca3170e4133f3.png",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/realglenndixon/status/1250586213133713416",
+      "published": "2020-04-16T00:46:02+00:00",
+      "wm-received": "2020-04-16T00:51:17Z",
+      "wm-id": 783090,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1250569925053292544/1250586213133713416",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "Like I don’t have a lengthy todo list already\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TheGreenGreek\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mxbck\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "Like I don’t have a lengthy todo list already"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1250586522077839365",
+      "published": "2020-04-16T00:47:16+00:00",
+      "wm-received": "2020-04-16T00:51:16Z",
+      "wm-id": 783089,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1250569925053292544/1250586522077839365",
+      "wm-target": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "content": {
+        "html": "Know what you mean. No matter how high we think we’ve climbed, the top of the ladder keeps moving away from us. 😦\n<a class=\"u-mention\" href=\"https://twitter.com/TheGreenGreek\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mxbck\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/realglenndixon\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "Know what you mean. No matter how high we think we’ve climbed, the top of the ladder keeps moving away from us. 😦"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/04/full-11ty-js-monty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "José Cage",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/5484f83bfa8b58693f5d9f2014d83a37c01ccdb60b7da45b1325949d446599ed.jpg",
+        "url": "https://twitter.com/cagejose"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-944899327",
+      "published": null,
+      "wm-received": "2020-03-29T14:14:41Z",
+      "wm-id": 776336,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/944899327",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c21eff209ada91f6fe7e85dade06b7cd289b2c253324148110fe5c4ae2cb8021.jpg",
+        "url": "https://twitter.com/nhoizey"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-6308712",
+      "published": null,
+      "wm-received": "2020-03-29T14:14:23Z",
+      "wm-id": 776335,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/6308712",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Antonius",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b9f3c9100136e57d6639a597f3f0a96aefc4fc39390f79608240b502adcc3066.jpg",
+        "url": "https://twitter.com/Okkido"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-5399562",
+      "published": null,
+      "wm-received": "2020-03-29T14:14:12Z",
+      "wm-id": 776334,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/5399562",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "R. Mark Volkmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e0aad51a3a266edac6fed6dbd3564269067cde6a764c878fa9052830b7df7602.jpg",
+        "url": "https://twitter.com/mark_volkmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-16169402",
+      "published": null,
+      "wm-received": "2020-03-29T14:13:57Z",
+      "wm-id": 776333,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/16169402",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Der kein Plan",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/9642f209c9170b157ee4704c6fcaca6be1e5a93d82c20729252519aaa67c4d8d.jpg",
+        "url": "https://twitter.com/5onderling"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-2207590713",
+      "published": null,
+      "wm-received": "2020-03-29T14:13:48Z",
+      "wm-id": 776332,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/2207590713",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Meyerhofer",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/de1fce77ed55a93f3f9b89550ef20a870ddd2e81d5013812ce13a05540d0f560.jpg",
+        "url": "https://twitter.com/JRMeyerhofer"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-425853322",
+      "published": null,
+      "wm-received": "2020-03-29T14:13:42Z",
+      "wm-id": 776331,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/425853322",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JSBot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/d3b5d39458624dd923d325a5c71691554b9b18d6d5104f53c3a94d5489cd209a.jpg",
+        "url": "https://twitter.com/Taieb_Bot"
+      },
+      "url": "https://twitter.com/Taieb_Bot/status/1241835363318071299",
+      "published": "2020-03-22T21:13:17+00:00",
+      "wm-received": "2020-03-22T21:30:21Z",
+      "wm-id": 773628,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1241812706879029250/1241835363318071299",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "NEW POST &gt;&gt; Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie",
+        "text": "NEW POST >> Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reuben L. Lillie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aad6b4e33f7f9e7817a4add478548e00571bdd156834f2188ad14477d5c77ad.jpg",
+        "url": "https://twitter.com/reubenlillie"
+      },
+      "url": "https://twitter.com/reubenlillie/status/1241835474492239872",
+      "published": "2020-03-22T21:13:43+00:00",
+      "wm-received": "2020-03-22T21:29:09Z",
+      "wm-id": 773627,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1241812706879029250/1241835474492239872",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "NEW POST &gt;&gt; Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie",
+        "text": "NEW POST >> Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reuben L. Lillie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aad6b4e33f7f9e7817a4add478548e00571bdd156834f2188ad14477d5c77ad.jpg",
+        "url": "https://twitter.com/reubenlillie"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-1417020956",
+      "published": null,
+      "wm-received": "2020-03-22T21:29:02Z",
+      "wm-id": 773626,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/1417020956",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/eleven_ty/status/1241817096151019520",
+      "published": "2020-03-22T20:00:42+00:00",
+      "wm-received": "2020-03-22T20:48:58Z",
+      "wm-id": 773558,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1241812706879029250/1241817096151019520",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "NEW POST &gt;&gt; Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie",
+        "text": "NEW POST >> Back to Nunjucks for my Eleventy site: Taking a course of lesser resistance \n\nbuff.ly/3bobDdn\n\n@eleven_ty @reubenlillie"
+      },
+      "repost-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241812706879029250#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2020-03-22T20:48:40Z",
+      "wm-id": 773557,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1241812706879029250/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "like-of": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241820369171988488",
+      "published": "2020-03-22T20:13:42+00:00",
+      "wm-received": "2020-03-22T20:48:33Z",
+      "wm-id": 773556,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241820369171988488",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "I look forward to that, too! TY sir.\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "I look forward to that, too! TY sir."
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reuben L. Lillie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aad6b4e33f7f9e7817a4add478548e00571bdd156834f2188ad14477d5c77ad.jpg",
+        "url": "https://twitter.com/reubenlillie"
+      },
+      "url": "https://twitter.com/reubenlillie/status/1241820215966564354",
+      "published": "2020-03-22T20:13:06+00:00",
+      "wm-received": "2020-03-22T20:48:16Z",
+      "wm-id": 773555,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241820215966564354",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "You're very kind, @BryceWrayTX. I'm already looking forward in time to read your post about your journey there and back again to vanilla <a href=\"https://twitter.com/search?q=%23JavaScript\">#JavaScript</a> templates.\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>",
+        "text": "You're very kind, @BryceWrayTX. I'm already looking forward in time to read your post about your journey there and back again to vanilla #JavaScript templates."
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241813099243593731",
+      "published": "2020-03-22T19:44:49+00:00",
+      "wm-received": "2020-03-22T19:58:21Z",
+      "wm-id": 773535,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241813099243593731",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "And crazy for me. But glad you liked it!\n<a class=\"u-mention\" href=\"https://twitter.com/anelki\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "And crazy for me. But glad you liked it!"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "/~anelki/ #closethelibrary",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/5d8844efbd9be0c755a313095470840af9aa059e5772bba0f8d6bb702b359f95.jpg",
+        "url": "https://twitter.com/anelki"
+      },
+      "url": "https://twitter.com/anelki/status/1241812932075433986",
+      "published": "2020-03-22T19:44:09+00:00",
+      "wm-received": "2020-03-22T19:58:14Z",
+      "wm-id": 773534,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241812932075433986",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "I just saw this and couldn't stop chucking :)\n\nThat said, watching your SSG dance the last year has been fun and really helpful for me :)\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "I just saw this and couldn't stop chucking :)\n\nThat said, watching your SSG dance the last year has been fun and really helpful for me :)"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1241814549713620994",
+      "published": "2020-03-22T19:50:35+00:00",
+      "wm-received": "2020-03-22T19:58:08Z",
+      "wm-id": 773533,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241814549713620994",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "You obviously have far, far better self-control than I. :-) That said: when I was using Hugo, I left my templates pretty much alone — although, honestly, it was because I was afraid to mess with the Go code all that much.\n<a class=\"u-mention\" href=\"https://twitter.com/GoHugoIO\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/anelki\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "You obviously have far, far better self-control than I. :-) That said: when I was using Hugo, I left my templates pretty much alone — although, honestly, it was because I was afraid to mess with the Go code all that much."
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "/~anelki/ #closethelibrary",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/5d8844efbd9be0c755a313095470840af9aa059e5772bba0f8d6bb702b359f95.jpg",
+        "url": "https://twitter.com/anelki"
+      },
+      "url": "https://twitter.com/anelki/status/1241814268527468544",
+      "published": "2020-03-22T19:49:28+00:00",
+      "wm-received": "2020-03-22T19:58:03Z",
+      "wm-id": 773532,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1241812706879029250/1241814268527468544",
+      "wm-target": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "content": {
+        "html": "I certainly understand the temptation, but I've not even changed my <a href=\"https://twitter.com/GoHugoIO\">@GoHugoIO</a> theme once since I started that site.\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/pdehaan\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/reubenlillie\"></a>",
+        "text": "I certainly understand the temptation, but I've not even changed my @GoHugoIO theme once since I started that site."
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/03/back-nunjucks-eleventy-site/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/realglenndixon/status/1241386431777554433",
+      "published": "2020-03-21T15:29:23+00:00",
+      "wm-received": "2020-03-21T17:36:23Z",
+      "wm-id": 773168,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1241386431777554433",
+      "wm-target": "https://brycewray.com/posts/2020/03/coherence-covid-19/",
+      "content": {
+        "html": "a nice read!\n<a class=\"u-mention\" href=\"https://brycewray.com/posts/2020/03/coherence-covid-19/\"></a>\n<a class=\"u-mention\" href=\"https://buff.ly/2xeNaZb\"></a>",
+        "text": "a nice read!"
+      },
+      "mention-of": "https://brycewray.com/posts/2020/03/coherence-covid-19/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1237391159858589738#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-03-11T06:55:30Z",
+      "wm-id": 767760,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1237391159858589738/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/03/welcome-sweet-little-early-bird/",
+      "like-of": "https://brycewray.com/posts/2020/03/welcome-sweet-little-early-bird/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b7a80f06bd0444925bf3506019ab0f10869ae49d4b8c35ea126612f1875ceef2.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1229104623035801604",
+      "published": "2020-02-16T18:05:52+00:00",
+      "wm-received": "2020-02-16T18:17:10Z",
+      "wm-id": 757007,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1223643608143802369/1229104623035801604",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "content": {
+        "html": "Considered that, but would quickly have exceeded the free plan. Site isn’t monetized so that wasn’t going to work. :-/\n<a class=\"u-mention\" href=\"https://twitter.com/Gravnetic\"></a>",
+        "text": "Considered that, but would quickly have exceeded the free plan. Site isn’t monetized so that wasn’t going to work. :-/"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jake Hawkes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0be40c5c79708242d58e84ec2c4df2a769e2506013769ef704c1396084856c23.png",
+        "url": "https://twitter.com/Gravnetic"
+      },
+      "url": "https://twitter.com/Gravnetic/status/1229104038991417344",
+      "published": "2020-02-16T18:03:33+00:00",
+      "wm-received": "2020-02-16T18:17:04Z",
+      "wm-id": 757006,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1223643608143802369/1229104038991417344",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "content": {
+        "html": "Why not use Cloudinary?\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>",
+        "text": "Why not use Cloudinary?"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Flyimg",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7383a6fd3d3017a62cb7957972258a8f720bb5392a512ef4cd482579a882bdb6.jpg",
+        "url": "https://twitter.com/Flyimg_"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1221112302520487939#favorited-by-822026550170316801",
+      "published": null,
+      "wm-received": "2020-02-13T22:17:02Z",
+      "wm-id": 756000,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1221112302520487939/822026550170316801",
+      "wm-target": "https://brycewray.com/",
+      "like-of": "https://brycewray.com/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Realest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1226629352487563264#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-02-10T01:33:41Z",
+      "wm-id": 754156,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1226629352487563264/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/02/mixed-nuts-february-2020/",
+      "like-of": "https://brycewray.com/posts/2020/02/mixed-nuts-february-2020/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "STOQE",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b36d2bad88a01e5dcc22caffb8b7128da8082b87bd18b3e4cc3da9eda5a6ef40.png",
+        "url": "https://twitter.com/STOQE"
+      },
+      "url": "https://twitter.com/STOQE/status/1223918848916672512",
+      "published": "2020-02-02T10:39:27+00:00",
+      "wm-received": "2020-02-02T11:05:58Z",
+      "wm-id": 751175,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1223918848916672512",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "content": {
+        "html": "web images are broke so bad 🤦🏽\n<a class=\"u-mention\" href=\"https://brycewray.com/posts/2020/02/so-much-for-heroes\"></a>\n<a class=\"u-mention\" href=\"https://brycewray.com/posts/2020/02/so-much-for-heroes/\"></a>\n<a href=\"https://twitter.com/brycewraytx/status/1223643608143802369\">twitter.com/brycewraytx/st…</a>",
+        "text": "web images are broke so bad 🤦🏽\n\n\ntwitter.com/brycewraytx/st…"
+      },
+      "mention-of": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Liam Fiddler",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/aa1ab6a2959974f0fa959e11d9bee132334eda6a235f34e359314d1f96a8436e.jpg",
+        "url": "https://twitter.com/liamfiddler"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1223643608143802369#favorited-by-22556677",
+      "published": null,
+      "wm-received": "2020-02-02T01:02:09Z",
+      "wm-id": 751083,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1223643608143802369/22556677",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "like-of": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1223643608143802369#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-02-01T20:31:28Z",
+      "wm-id": 751022,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1223643608143802369/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "like-of": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/realglenndixon/status/1223674061688950784",
+      "published": "2020-02-01T18:26:45+00:00",
+      "wm-received": "2020-02-01T20:31:10Z",
+      "wm-id": 751021,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1223643608143802369/1223674061688950784",
+      "wm-target": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "content": {
+        "html": "Makes sense. I read your posts about 1/2 time on mobile. Speaking of, my site *sucks* on mobile. What I get for mixing code from 2 different sites... :(\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>",
+        "text": "Makes sense. I read your posts about 1/2 time on mobile. Speaking of, my site *sucks* on mobile. What I get for mixing code from 2 different sites... :("
+      },
+      "in-reply-to": "https://brycewray.com/posts/2020/02/so-much-for-heroes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1218737281319739392#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2020-01-19T11:29:31Z",
+      "wm-id": 746011,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1218737281319739392/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2020/01/streamers-party/",
+      "like-of": "https://brycewray.com/posts/2020/01/streamers-party/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andrew Kierig",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1ac36b74b577bfb431c771518635d8f82aebf7b5d91d7449782949b160d850ab.jpg",
+        "url": "https://twitter.com/kierig"
+      },
+      "url": "https://twitter.com/kierig/status/1216795696583577601",
+      "published": "2020-01-13T18:54:35+00:00",
+      "wm-received": "2020-01-13T19:06:07Z",
+      "wm-id": 743819,
+      "wm-source": "https://brid-gy.appspot.com/post/twitter/BryceWrayTX/1216795696583577601",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "if you're interested in static site generators as an alternative to database driven WordPress monstrosities---as I am---read <a href=\"https://twitter.com/BryceWrayTX\">@BryceWrayTX</a>. \n\nbe prepared to laugh.\n\n<a href=\"https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/\">brycewray.com/posts/2019/12/…</a>",
+        "text": "if you're interested in static site generators as an alternative to database driven WordPress monstrosities---as I am---read @BryceWrayTX. \n\nbe prepared to laugh.\n\nbrycewray.com/posts/2019/12/…"
+      },
+      "mention-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/64ed7c5b6f8f7dc61e11ff6a926eeb6a94e686473efdb5a7c697a4a87f4e411a.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1216734596651536384#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2020-01-13T16:36:36Z",
+      "wm-id": 743771,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1216734596651536384/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "like-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Brunt",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b9584d7b1373d81515f7d6047643f1273a1aaabab5ef0e389607b993c7e9d793.jpg",
+        "url": "https://twitter.com/Brunty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1216734596651536384#favorited-by-1099517012",
+      "published": null,
+      "wm-received": "2020-01-13T15:05:13Z",
+      "wm-id": 743751,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1216734596651536384/1099517012",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "like-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "cloudsh",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/220068325a9a50b8b5ba29c609aa708dd0b52329ceeeef44f82bb48b9dc6edfe.jpg",
+        "url": "https://twitter.com/cloudsh"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211603009026895872#favorited-by-14851222",
+      "published": null,
+      "wm-received": "2020-01-06T21:24:57Z",
+      "wm-id": 741770,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1211603009026895872/14851222",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "like-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "cloudsh",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/220068325a9a50b8b5ba29c609aa708dd0b52329ceeeef44f82bb48b9dc6edfe.jpg",
+        "url": "https://twitter.com/cloudsh"
+      },
+      "url": "https://twitter.com/cloudsh/status/1212750676557729797",
+      "published": "2020-01-02T15:01:07+00:00",
+      "wm-received": "2020-01-02T15:30:23Z",
+      "wm-id": 740061,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1211603009026895872/1212750676557729797",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "ICYMI &gt;&gt; Sorta StranGe (SSG) trip: Recapping “the dance” and what it taught me \n\nbuff.ly/2Qx9DGQ \n\n#StaticSiteGenerator #SSG #Eleven",
+        "text": "ICYMI >> Sorta StranGe (SSG) trip: Recapping “the dance” and what it taught me \n\nbuff.ly/2Qx9DGQ \n\n#StaticSiteGenerator #SSG #Eleven"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Salmon",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/ee9969716f6d021f1e9839c2de775417f738bf31f54c277697d4df2866cf28e5.jpg",
+        "url": "https://twitter.com/windowswebdev"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1212496201385418753#favorited-by-4303368317",
+      "published": null,
+      "wm-received": "2020-01-02T06:06:05Z",
+      "wm-id": 739919,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1212496201385418753/4303368317",
+      "wm-target": "https://brycewray.com/",
+      "like-of": "https://brycewray.com/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Derek Nguyen",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/465c0f44adef8fb1a13a1738ef2efd7d2f39de40ecb211a22ed5b95951b6516f.jpg",
+        "url": "https://twitter.com/DerekNguyen10"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1212496201385418753#favorited-by-1374160044",
+      "published": null,
+      "wm-received": "2020-01-02T06:06:04Z",
+      "wm-id": 739918,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1212496201385418753/1374160044",
+      "wm-target": "https://brycewray.com/",
+      "like-of": "https://brycewray.com/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Javascript Digest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8926516280df06f09e9ac45cd9df37e0e2ed500388fbfd669e40b7ec4fb680df.jpeg",
+        "url": "https://twitter.com/javascriptd"
+      },
+      "url": "https://twitter.com/javascriptd/status/1211840048317915136",
+      "published": "2019-12-31T02:42:37+00:00",
+      "wm-received": "2019-12-31T03:14:56Z",
+      "wm-id": 739058,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1211603009026895872/1211840048317915136",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "ICYMI &gt;&gt; Sorta StranGe (SSG) trip: Recapping “the dance” and what it taught me \n\nbuff.ly/2Qx9DGQ \n\n#StaticSiteGenerator #SSG #Eleven",
+        "text": "ICYMI >> Sorta StranGe (SSG) trip: Recapping “the dance” and what it taught me \n\nbuff.ly/2Qx9DGQ \n\n#StaticSiteGenerator #SSG #Eleven"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "➿ 🇯🇵 🇨🇦 ˚༄⁣༺Musa™༻༉˚",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/43b409346281befd41d422f1baa30d4377c5fcf322ddae7e12cb27f52aab717e.jpg",
+        "url": "https://twitter.com/MusaLu1313"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211603009026895872#favorited-by-804647415370260480",
+      "published": null,
+      "wm-received": "2019-12-31T03:14:55Z",
+      "wm-id": 739057,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1211603009026895872/804647415370260480",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "like-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fullstack Developer",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7d7632adc50473ef2f09512def2fadb86e4412704c65af1f8acd0d37d7cab38f.jpg",
+        "url": "https://twitter.com/FullstackDevJS"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211603009026895872#favorited-by-931055758971752448",
+      "published": null,
+      "wm-received": "2019-12-31T01:01:43Z",
+      "wm-id": 739042,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1211603009026895872/931055758971752448",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "like-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211603009026895872#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2019-12-30T12:42:41Z",
+      "wm-id": 738843,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1211603009026895872/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "like-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "QServices Inc",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e3fab02de8be6d180a61813f6bc6032357c1741cd7042d30beb81e7017aa01dd.png",
+        "url": "https://twitter.com/qservicesit"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211603009026895872#favorited-by-945593096363847680",
+      "published": null,
+      "wm-received": "2019-12-30T12:01:27Z",
+      "wm-id": 738840,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1211603009026895872/945593096363847680",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "like-of": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c1c19f92ddf6cd53d502b04bf0b9a1f44871c28028a441b335f72bab0f067312.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1211278801440854021",
+      "published": "2019-12-29T13:32:25+00:00",
+      "wm-received": "2019-12-29T13:59:36Z",
+      "wm-id": 738717,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1210663407847985157/1211278801440854021",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "No argument, sir. 🤷‍♂️\n<a class=\"u-mention\" href=\"https://twitter.com/realglenndixon\"></a>",
+        "text": "No argument, sir. 🤷‍♂️"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/realglenndixon/status/1211280578391281665",
+      "published": "2019-12-29T13:39:29+00:00",
+      "wm-received": "2019-12-29T13:59:31Z",
+      "wm-id": 738716,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1210663407847985157/1211280578391281665",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "I also went from Hugo to <a href=\"https://twitter.com/eleven_ty\">@eleven_ty</a> this year - coming from WP after the Gutenberg fiasco. But I’ve also done Jekyll and one or two other alternatives. Now if I could just settle on one photo hosting/sharing solution….\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>",
+        "text": "I also went from Hugo to @eleven_ty this year - coming from WP after the Gutenberg fiasco. But I’ve also done Jekyll and one or two other alternatives. Now if I could just settle on one photo hosting/sharing solution…."
+      },
+      "in-reply-to": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/realglenndixon/status/1211278023456104449",
+      "published": "2019-12-29T13:29:19+00:00",
+      "wm-received": "2019-12-29T13:31:11Z",
+      "wm-id": 738713,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1210663407847985157/1211278023456104449",
+      "wm-target": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "content": {
+        "html": "While reading this post:\n\nMe: Wow, this guy is all over the place!\n\nAlso me: Wow, this all sounds so very familiar!\n\n:(\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>",
+        "text": "While reading this post:\n\nMe: Wow, this guy is all over the place!\n\nAlso me: Wow, this all sounds so very familiar!\n\n:("
+      },
+      "in-reply-to": "https://brycewray.com/posts/2019/12/sorta-strange-ssg-trip/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "M2 🚀",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b9cb84200d6f542bb3bf34ce9ba3640b4dd5f490ae900a22593948d5642358b9.jpg",
+        "url": "https://twitter.com/m2creates"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-1232581862",
+      "published": null,
+      "wm-received": "2019-12-29T03:47:11Z",
+      "wm-id": 738573,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/1232581862",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Steve Jamesson",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3858435c71cdfa90aaf0be8bcc2ae1da88196155a5d97b667caa94f1b2e10595.jpg",
+        "url": "https://twitter.com/stevejamesson"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-15454072",
+      "published": null,
+      "wm-received": "2019-12-24T20:00:27Z",
+      "wm-id": 737648,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/15454072",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209481491488612352#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2019-12-24T14:40:43Z",
+      "wm-id": 737572,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209481491488612352/765536236807204864",
+      "wm-target": "https://brycewray.com/",
+      "like-of": "https://brycewray.com/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sven Wolfermann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e3088286184d1bfe3eed1fed03ceaff9ba98d2f569a70ea788a8cf488ba820b1.jpeg",
+        "url": "https://twitter.com/maddesigns"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-14168924",
+      "published": null,
+      "wm-received": "2019-12-24T09:46:27Z",
+      "wm-id": 737545,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/14168924",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Roel Nieskens",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/93ef4151b9060ab234a88fd1819fdb066b9f45b910c7692357b1ba0df6878c58.jpg",
+        "url": "https://twitter.com/PixelAmbacht"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-430603936",
+      "published": null,
+      "wm-received": "2019-12-24T09:17:23Z",
+      "wm-id": 737540,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/430603936",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Antonius",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b9f3c9100136e57d6639a597f3f0a96aefc4fc39390f79608240b502adcc3066.jpg",
+        "url": "https://twitter.com/Okkido"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-5399562",
+      "published": null,
+      "wm-received": "2019-12-24T08:04:55Z",
+      "wm-id": 737499,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/5399562",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-24203304",
+      "published": null,
+      "wm-received": "2019-12-24T08:04:13Z",
+      "wm-id": 737498,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/24203304",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Devin Clark",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/495821c98f00de17dc92297c06711f3c2e1bf62a5f50f1ac59bca6eaab5bb6a0.jpg",
+        "url": "https://twitter.com/iDevinClark"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-30333908",
+      "published": null,
+      "wm-received": "2019-12-24T06:15:34Z",
+      "wm-id": 737483,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/30333908",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Derek",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/acf5e93d3c862981718c4d350b8e253c8db42bdd4805b33f7be5aa8074be8022.png",
+        "url": "https://twitter.com/monkeysort"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-324643061",
+      "published": null,
+      "wm-received": "2019-12-24T03:37:25Z",
+      "wm-id": 737443,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/324643061",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dana Byerly",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7b52e9fed640c3a2a4283a9b4f1f4298e94009f0f45f32e5d46c6a29d9fe6a82.jpg",
+        "url": "https://twitter.com/superterrific"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-4094721",
+      "published": null,
+      "wm-received": "2019-12-24T02:18:08Z",
+      "wm-id": 737440,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/4094721",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Josh ⚡️",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3f2f9621f8da4788bc07ddea563457a01627b116a1cd6ede8a2b5df2b4df19c6.jpg",
+        "url": "https://twitter.com/erbitron"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-943931398246797312",
+      "published": null,
+      "wm-received": "2019-12-24T02:18:01Z",
+      "wm-id": 737439,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/943931398246797312",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Liam Fiddler",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/aa1ab6a2959974f0fa959e11d9bee132334eda6a235f34e359314d1f96a8436e.jpg",
+        "url": "https://twitter.com/liamfiddler"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-22556677",
+      "published": null,
+      "wm-received": "2019-12-24T02:17:51Z",
+      "wm-id": 737438,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/22556677",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6933e019ee0cc975ac7373bf42150206e81fb95a3eb278c3deba037ac607caa3.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2019-12-24T01:48:23Z",
+      "wm-id": 737432,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kyle Mitofsky",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/797b730743e3815f89ec08c6ca436701aa5f74ef7370e91c4419b80b918fef64.jpg",
+        "url": "https://twitter.com/KyleMitBTV"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209222914442182656#favorited-by-331207312",
+      "published": null,
+      "wm-received": "2019-12-24T01:48:15Z",
+      "wm-id": 737431,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1209222914442182656/331207312",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "like-of": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bryce Wray",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c1c19f92ddf6cd53d502b04bf0b9a1f44871c28028a441b335f72bab0f067312.jpg",
+        "url": "https://twitter.com/BryceWrayTX"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1209229879079821312",
+      "published": "2019-12-23T21:50:44+00:00",
+      "wm-received": "2019-12-23T21:55:21Z",
+      "wm-id": 737269,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1209222914442182656/1209229879079821312",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "content": {
+        "html": "You are so very welcome, sir! A much-wanted feature — and you showed us how to get there! **I** thank **you**!!\n<a class=\"u-mention\" href=\"https://twitter.com/_pascalw\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>",
+        "text": "You are so very welcome, sir! A much-wanted feature — and you showed us how to get there! **I** thank **you**!!"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pascal Widdershoven",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0f3601ece8ad5cf769748e1b7f4a7156c97f57e4568a943b356206638c611aa1.jpg",
+        "url": "https://twitter.com/_pascalw"
+      },
+      "url": "https://twitter.com/_pascalw/status/1209228815479779328",
+      "published": "2019-12-23T21:46:30+00:00",
+      "wm-received": "2019-12-23T21:55:08Z",
+      "wm-id": 737268,
+      "wm-source": "https://brid-gy.appspot.com/comment/twitter/BryceWrayTX/1209222914442182656/1209228815479779328",
+      "wm-target": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "content": {
+        "html": "Glad I was able to help and thanks for the shout-out! 👍\n<a class=\"u-mention\" href=\"https://brycewray.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/BryceWrayTX\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/eleven_ty\"></a>",
+        "text": "Glad I was able to help and thanks for the shout-out! 👍"
+      },
+      "in-reply-to": "https://brycewray.com/posts/2019/12/previous-next-eleventy/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/biilmann/status/1208071714510389251",
+      "published": "2019-12-20T17:08:36+00:00",
+      "wm-received": "2019-12-20T17:39:27Z",
+      "wm-id": 736359,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1208070848822816773/1208071714510389251",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "content": {
+        "text": "Updated my recent post after finally finding a solution to an annoying dev issue… \n\nbrycewray.com/posts/2019/12/… \n\n@eleven_ty @webpack @Browsersy"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1208070848822816773#favorited-by-24203304",
+      "published": null,
+      "wm-received": "2019-12-20T17:39:22Z",
+      "wm-id": 736358,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1208070848822816773/24203304",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dean Rie 🤟",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/468ff7086669c05d0cd72e7e371464d94791dc55edae084d1c4e39f2b5cb2fa9.jpg",
+        "url": "https://twitter.com/dean_rie"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-21449710",
+      "published": null,
+      "wm-received": "2019-12-15T14:01:02Z",
+      "wm-id": 734390,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/21449710",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheRealest",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b27e83a033f4397e594f47982677675b6babf6f7192d341180695483d72cd9c8.jpg",
+        "url": "https://twitter.com/realglenndixon"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-765536236807204864",
+      "published": null,
+      "wm-received": "2019-12-14T23:46:15Z",
+      "wm-id": 734320,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/765536236807204864",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6933e019ee0cc975ac7373bf42150206e81fb95a3eb278c3deba037ac607caa3.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/eleven_ty/status/1205893857231228931",
+      "published": "2019-12-14T16:54:34+00:00",
+      "wm-received": "2019-12-14T22:34:43Z",
+      "wm-id": 734306,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1205890915686133762/1205893857231228931",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "content": {
+        "html": "New post &gt;&gt; Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack",
+        "text": "New post >> Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sami Keijonen",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/563596f12242cf865eb4f8e914701e8f0caf82935d92809ac5c342cfadf247fe.jpg",
+        "url": "https://twitter.com/samikeijonen"
+      },
+      "url": "https://twitter.com/samikeijonen/status/1205963570212720640",
+      "published": "2019-12-14T21:31:35+00:00",
+      "wm-received": "2019-12-14T22:34:32Z",
+      "wm-id": 734304,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1205890915686133762/1205963570212720640",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "content": {
+        "html": "New post &gt;&gt; Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack",
+        "text": "New post >> Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/biilmann/status/1205920774940483584",
+      "published": "2019-12-14T18:41:32+00:00",
+      "wm-received": "2019-12-14T22:34:32Z",
+      "wm-id": 734305,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1205890915686133762/1205920774940483584",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "content": {
+        "html": "New post &gt;&gt; Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack",
+        "text": "New post >> Code comfort: Eleventy and webpack • Peeking inside this site \nbuff.ly/2PKjatF \n#SSG #config \ncc: @eleven_ty @webpack"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6933e019ee0cc975ac7373bf42150206e81fb95a3eb278c3deba037ac607caa3.jpg",
+        "url": "https://twitter.com/eleven_ty"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-949639269433380864",
+      "published": null,
+      "wm-received": "2019-12-14T22:34:22Z",
+      "wm-id": 734303,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/949639269433380864",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nate Steiner",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/652f16f50cbcddac40cd5bb07569962dd813bfcd7482ffb7543604098350b2a6.jpg",
+        "url": "https://twitter.com/nsteiner"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-651103",
+      "published": null,
+      "wm-received": "2019-12-14T22:34:21Z",
+      "wm-id": 734302,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/651103",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Antonius",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b9f3c9100136e57d6639a597f3f0a96aefc4fc39390f79608240b502adcc3066.jpg",
+        "url": "https://twitter.com/Okkido"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-5399562",
+      "published": null,
+      "wm-received": "2019-12-14T22:34:10Z",
+      "wm-id": 734301,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/5399562",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-24203304",
+      "published": null,
+      "wm-received": "2019-12-14T22:34:09Z",
+      "wm-id": 734300,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/24203304",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rodolphe",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/93efc670b40af6aa47303d690229ba830967ca80b7a6427afe9b3b4f53ff216a.jpg",
+        "url": "https://twitter.com/RDLPHMCHRD"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-114706496",
+      "published": null,
+      "wm-received": "2019-12-14T22:34:01Z",
+      "wm-id": 734299,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/114706496",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jeroen van Beek",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/eba5633da72814e0cfbf5e2e3daca9c324c65a053468c9a071a0a63ec32fc3ce.jpg",
+        "url": "https://twitter.com/losbeekos"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-19490228",
+      "published": null,
+      "wm-received": "2019-12-14T22:33:50Z",
+      "wm-id": 734298,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/19490228",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "it-spirit Software",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/766d6b4a699e229c2a83282f01e9272585a24691aaf0bac4c4c39265967322e7.jpg",
+        "url": "https://twitter.com/it_spirit"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-17875565",
+      "published": null,
+      "wm-received": "2019-12-14T22:33:49Z",
+      "wm-id": 734297,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/17875565",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sami Keijonen",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/563596f12242cf865eb4f8e914701e8f0caf82935d92809ac5c342cfadf247fe.jpg",
+        "url": "https://twitter.com/samikeijonen"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205890915686133762#favorited-by-83852898",
+      "published": null,
+      "wm-received": "2019-12-14T22:33:40Z",
+      "wm-id": 734296,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205890915686133762/83852898",
+      "wm-target": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "like-of": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205114302035873792#favorited-by-24203304",
+      "published": null,
+      "wm-received": "2019-12-12T14:08:06Z",
+      "wm-id": 733372,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205114302035873792/24203304",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "like-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Derek Nguyen",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/465c0f44adef8fb1a13a1738ef2efd7d2f39de40ecb211a22ed5b95951b6516f.jpg",
+        "url": "https://twitter.com/DerekNguyen10"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205114302035873792#favorited-by-1374160044",
+      "published": null,
+      "wm-received": "2019-12-12T14:08:05Z",
+      "wm-id": 733371,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205114302035873792/1374160044",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "like-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Biilmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/af70cb924db6d4dfc56c9c7cf65e39cf6e3901836a903a237357a1fc28c1c6a5.jpg",
+        "url": "https://twitter.com/biilmann"
+      },
+      "url": "https://twitter.com/biilmann/status/1205119865675304962",
+      "published": "2019-12-12T13:39:00+00:00",
+      "wm-received": "2019-12-12T14:08:04Z",
+      "wm-id": 733369,
+      "wm-source": "https://brid-gy.appspot.com/repost/twitter/BryceWrayTX/1205114302035873792/1205119865675304962",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "content": {
+        "html": "ICYMI &gt;&gt; Packing up: Eleventy and webpack are a powerful pair\n\nbuff.ly/2P37lje\n\n#SSG #bundler @eleven_ty @webpack",
+        "text": "ICYMI >> Packing up: Eleventy and webpack are a powerful pair\n\nbuff.ly/2P37lje\n\n#SSG #bundler @eleven_ty @webpack"
+      },
+      "repost-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tim arney",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0cd93a0db6db238a754709b16474130210fb08d4849c6e40f2fb12c908f83913.jpg",
+        "url": "https://twitter.com/timarney"
+      },
+      "url": "https://twitter.com/BryceWrayTX/status/1205114302035873792#favorited-by-17606481",
+      "published": null,
+      "wm-received": "2019-12-12T14:08:04Z",
+      "wm-id": 733370,
+      "wm-source": "https://brid-gy.appspot.com/like/twitter/BryceWrayTX/1205114302035873792/17606481",
+      "wm-target": "https://brycewray.com/posts/2019/12/packing-up/",
+      "like-of": "https://brycewray.com/posts/2019/12/packing-up/",
+      "wm-property": "like-of",
+      "wm-private": false
+    }
+  ]
+}
